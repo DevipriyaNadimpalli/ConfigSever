@@ -2,7 +2,7 @@ test:
   message: Hello from prod
 
 server:
-  port: 7082
+  port: 0
 
 spring:
   datasource:
