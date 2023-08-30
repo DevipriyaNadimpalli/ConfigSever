@@ -2,7 +2,7 @@ test:
   message: Hello from dev
 
 server:
-  port: 9082
+  port: 0
 
 spring:
   datasource:
